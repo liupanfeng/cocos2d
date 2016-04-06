@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">垃圾短信拦截</string>
+    <string name="edit">编辑你要屏蔽的关键字和联系人</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_setting">垃圾短信拦截</string>
+    <string name="edit_keyword">编辑关键字</string>
+    <string name="edit_contacts">编辑联系人</string>
+    <string name="title_activity_edit_contacts">EditContactsActivity</string>
+
+    <string name="add">添加</string>
+    <string name="title_activity_edit_key_word">EditKeyWordActivity</string>
+    <string name="pls_input_content">请输入内容</string>
+</resources>

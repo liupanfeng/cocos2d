@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white" >#ffffffff</color>
+    <color name="black" >#ff000000</color>
+    <color name="blue" >#ff00ff00</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow">#FFFF00</color> <!--黄色 -->
+    <color name="orange">#FFA500</color> <!--橙色 -->
+    <color name="mediumvioletred">#C71585</color> <!--中紫罗兰色 -->
+</resources>
